@@ -6,7 +6,7 @@ bigbio is an open-source organization dedicated to advancing bioinformatics and 
 
 ### 🔬 Proteomics and Quantitative Analysis  
 - **[quantms](https://github.com/bigbio/quantms)**: A comprehensive workflow for proteomics experiments supporting DDA-LFQ, DDA-Isobaric, and DIA-LFQ quantification.  
-- **[quantms.io](https://github.com/bigbio/quantms.io)**: A proteomics quantification format extending mzTab for large-scale datasets.  
+- **[qpx](https://github.com/bigbio/qpx)**: A proteomics quantification format extending mzTab for large-scale datasets.  
 - **[ibaqpy](https://github.com/bigbio/ibaqpy)**: A package for absolute quantification based on the quantms.io format.
 - **[quantms.org](https://github.com/bigbio/quantms.org)**: Code for quantms.org, a resource for reanalysis and public proteomics data. 
 
